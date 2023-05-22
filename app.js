@@ -4,8 +4,7 @@ let operacion = argv[2];
 let numA = argv[3];
 let numB = argv[4];
 
-// console.log(+numA);
-// console.log(+numB);
+// hola mundo
 if(numA === undefined || numB === undefined){
     console.log("Para operar se necesita 2 valores")
 }else{
